@@ -1,6 +1,14 @@
 <?php 
 
-// ini file index.php
-// pada saat aplikasi dimulai, maka akan langsung menuju ke file ini
+session_start();
+require_once __DIR__.'/config/database.php';
+require_once __DIR__.'/config/baseUrl.php';
+
+
+
+require_once __DIR__.'/views/form_login.php';
+
+
 
  ?>
+
