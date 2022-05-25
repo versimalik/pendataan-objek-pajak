@@ -17,7 +17,7 @@ if (mysqli_connect_errno()) {
   exit();
 }
 else {
-  // Jika tidak error, maka tampilkan ini
+  // Jika tidak error, maka tampilkan inie
   echo "Berhasil terkoneksi ke database $dbname <br>";
 }
 

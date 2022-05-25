@@ -1,10 +1,8 @@
+<?php require_once __DIR__.'/headhtml.php';?>
+
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="style/bootstrap5/css/bootstrap.css">
-	<script type="text/javascript" src="style/bootstrap5/js/bootstrap.js"></script>
 	<title>Halaman Login</title>
 </head>
 <body>
